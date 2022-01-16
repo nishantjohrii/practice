@@ -8,7 +8,6 @@ public class Code {
 		
 		System.out.println("this is the second line of code");
 		
-		System.out.println("this is the third line of code from remote rep");
 
 	}
 
