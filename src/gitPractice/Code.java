@@ -8,8 +8,6 @@ public class Code {
 		
 		System.out.println("this is the second line of code");
 		
-		System.out.println("code added from branchdev 2");
-		
 
 	}
 
